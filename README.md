@@ -445,16 +445,15 @@ The project contributes to:
 
 * Vrushank Skanda B
 * Sadiya Kulsum
-* Ravi Mohammed Issa Ilyas
+* Ravi
+* Mohammed Issa Ilyas
 * Sruthi K S
 * Rafa Rahmath
 * Saayanth M
 * Vaastav L Sanghvi
 * Prokshith Jain
 * Avinash Nashi
-* Mahesh D
-* Manoj H C
-* Yashwanth T R
+
 
 
 
@@ -500,7 +499,4 @@ We sincerely acknowledge all faculty mentors, contributors, open-source communit
 FITYNTRA is an AI-assisted wellness platform and should not replace professional medical consultation. Users with severe injuries or medical conditions should consult certified healthcare professionals before following any rehabilitation or fitness program.
 
 ---
-
-### Document Source
-
-Project synopsis document:
+:
